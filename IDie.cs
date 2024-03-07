@@ -12,6 +12,7 @@ namespace DiceGame;
 /// </summary>
 public interface IDie
 {
+  
     /// <summary>
     /// How many Sides on a Die
     /// </summary>
